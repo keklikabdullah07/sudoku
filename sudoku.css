@@ -1,0 +1,32 @@
+#sudoku1 {
+   width: 120px;
+   height: 120px;
+   display: flex;
+   flex-wrap: wrap;
+   background-color: white;
+   margin: auto;
+   border-collapse: collapse;
+   border: 1px solid black;
+
+}
+
+.hucreler {
+   width: 31%;
+   height: 31%;
+   background-color: white;
+   color: black;
+   text-align: center;
+   line-height: 40px;
+   margin: auto;
+   border: 1px solid black;
+
+
+
+
+
+}
+
+table {
+   background-color: yellow;
+   border: 2px solid black;
+}
